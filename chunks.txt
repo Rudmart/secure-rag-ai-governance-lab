@@ -1,0 +1,11 @@
+Chunk 1
+AI System Registration
+All AI systems used by the fictional organization must be registered before deployment. The registry must identify the system owner, intended purpose, and data sources.
+
+Chunk 2
+Risk Assessment
+Each AI system must undergo a risk assessment covering potential harm, bias, privacy, and reliability. System owners must document safeguards and reassess risks whenever the system's purpose or capabilities change.
+
+Chunk 3
+Human Approval
+A designated human reviewer must approve each AI system before it enters operational use. Decisions that significantly affect individuals must receive human review, with authority to override or stop the system.
